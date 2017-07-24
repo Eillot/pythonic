@@ -1,2 +1,3 @@
 #bin/sbin env
-/.idea/*
+./.idea/*
+
