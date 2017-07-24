@@ -1,2 +1,4 @@
 #bin/sbin env
-/.idea/*
+./.idea/*
+./.idea/*.xml
+
