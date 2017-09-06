@@ -7,5 +7,6 @@
 *.gitignore
 *.jpg
 /.gitignore
-.idea/
+.idea/*
+./.idea/*
 *.xml
