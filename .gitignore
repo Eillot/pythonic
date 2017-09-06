@@ -1,4 +1,11 @@
 #bin/sbin env
-./.idea/*
-./.idea/*.xml
+#this is a file that you want to ignore fot git.
 
+*.txt
+*.html
+*.pyc
+*.gitignore
+*.jpg
+/.gitignore
+.idea/
+*.xml
